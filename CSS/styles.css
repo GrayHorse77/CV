@@ -1,0 +1,20 @@
+body {
+  background: linear-gradient(black,#73777B);
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: maroon;
+  border-width: 5px;
+  width: 5%;
+}
+h1  {
+  color: maroon;
+}
+h3 {
+  color: maroon;
+}
+u {
+  color: maroon;
+}
