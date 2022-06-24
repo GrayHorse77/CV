@@ -1,5 +1,9 @@
 body {
-  background: linear-gradient(#73777B, white);
+
+}
+.image {
+border-radius: 50%;
+
 }
 
 hr {
@@ -17,4 +21,16 @@ h3 {
 }
 u {
   color: maroon;
+}
+html  {
+  height: 100%;
+}
+.background {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  top: 0;
+  background: linear-gradient(#73777B, white);
+  z-index:-1;
 }
