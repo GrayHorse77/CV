@@ -1,6 +1,10 @@
 body {
 
 }
+.image {
+border-radius: 50%;
+
+}
 
 hr {
   border-style: none;
