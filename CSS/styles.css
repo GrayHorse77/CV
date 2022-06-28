@@ -16,6 +16,9 @@ hr {
 h1:hover {
   color: gold;
 }
+a:hover {
+background-color: white; 
+}
 h3 {
   color: maroon;
 }
